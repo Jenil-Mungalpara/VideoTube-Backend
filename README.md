@@ -1,4 +1,4 @@
-# VideoTube Backend API 🚀
+# VideoTube Backend 
 
 A complex, production-ready backend API for a video-hosting platform (like YouTube). This project was built to master advanced backend concepts in Node.js, including complex database modeling, authentication, file handling, and aggregate pipelines.
 
